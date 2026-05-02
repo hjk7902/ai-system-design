@@ -4,12 +4,13 @@ Spring Boot AI 시스템 설계 - 컨텍스트 중심 AI 애플리케이션 구�
 # 개발환경
 ## 자바
   - JDK 25
-  - Sprint Tools for Eclipse 5.0.1
-  - Spring Boot 3.5.10
-  - Spring AI 1.1.2
+  - Sprint Tools for Eclipse 5.1.1
+  - Spring Boot 4.0.6
+  - Spring AI 1.1.3
 ## 파이썬
   - Python 3.13
   - VSCode
+  - YOLO26
 ## MQTT 서버
   - Mosquitto
 
@@ -20,5 +21,6 @@ Spring Boot AI 시스템 설계 - 컨텍스트 중심 AI 애플리케이션 구�
   - General -> Existing Projects into Workspace -> Next
   - Select archive file: JavaSpringProject.zip 파일 선택 -> Finish
 ## 파이썬
-  - vs-workspace.zip
+  - workspace-ai-system-design(python).zip
   - 압축 풀고 VSCode에서 폴더를 열면 됨
+  - 1장부터 3장까지 소스가 챕터별로 있음
