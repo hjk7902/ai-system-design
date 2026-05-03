@@ -6,7 +6,7 @@ Spring Boot AI 시스템 설계 - 컨텍스트 중심 AI 애플리케이션 구�
   - JDK 25
   - Sprint Tools for Eclipse 5.1.1
   - Spring Boot 4.0.6
-  - Spring AI 1.1.3
+  - Spring AI 1.1.3, 2.0.0
 ## 파이썬
   - Python 3.13
   - VSCode
